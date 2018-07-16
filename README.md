@@ -14,10 +14,10 @@ Three Headed Trainer pokedex shows you the main information about these three po
 <p><img src="https://pp.userapi.com/c834301/v834301879/18d494/mJcjb5h5fKE.jpg"></p>
 <p>Also you can search for other pokemons by name using search bar.</p>
 
-<strong> Built With </strong>
+<p><strong> Built With: </strong></p>
 Sublime, Koala
 
-<strong> Author </strong>
+<p><strong> Author: </strong></p>
 Mary Tkachenko - software engineer;
 Three Headed Trainer - inspiration;
 Combee - kitchen;
