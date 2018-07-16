@@ -1,5 +1,5 @@
 <p><strong> Personal Pokedex</strong></p>
-This progect is dedicated to the Three Headed Trainer.
+This project is dedicated to the Three Headed Trainer.
 His students-pokemons are:
 <p><strong> COMBEE </strong></p>
 <img src="https://78.media.tumblr.com/db4f117b9f94b4cfd2626cc042cba584/tumblr_om1yzkEphd1tdblgdo1_r1_500.gif">
