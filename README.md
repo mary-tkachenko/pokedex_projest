@@ -13,6 +13,7 @@ His students-pokemons are:
 </br>
 Three Headed Trainer pokedex shows you the main information about these three pokemons. Each of them has a custom created symbol.
 </br>
+</br>
 <p><img src="https://pp.userapi.com/c834301/v834301879/18d494/mJcjb5h5fKE.jpg"></p>
 <p>Also you can search for other pokemons by name using search bar. And pokedex will show you all important information about them too.</p>
 <p><strong> Built With: </strong></p>
