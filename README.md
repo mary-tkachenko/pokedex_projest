@@ -11,13 +11,11 @@ His students-pokemons are:
 <p><strong> EXEGUTTOR </strong></p>
 <img src="http://gifimage.net/wp-content/uploads/2017/11/exeggutor-gif-7.gif">
 </br>
-Three Headed Trainer pokedex shows you the main information about these three pokemons. Each of them has a custom created symbol.
+Three Headed Trainer pokedex shows you the main information about these three pokemons. Each of them has a custom created symbol.</br>
 <p><img src="https://pp.userapi.com/c834301/v834301879/18d494/mJcjb5h5fKE.jpg"></p>
 <p>Also you can search for other pokemons by name using search bar. And pokedex will show you all important information about them too.</p>
-</br>
 <p><strong> Built With: </strong></p>
 <p>Sublime, Koala</p>
-</br>
 <p><strong> Authors: </strong></p>
 Mary Tkachenko - software engineer;</br>
 Three Headed Trainer - inspiration;</br>
