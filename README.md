@@ -1,56 +1,26 @@
 <strong> Personal Pokedex</strong>
-One Paragraph of project description goes here
+This progect is dedicated to the Three Headed Trainer.
+His students-pokemons are:
+<p><strong> COMBEE </strong></p>
+<img src="https://78.media.tumblr.com/db4f117b9f94b4cfd2626cc042cba584/tumblr_om1yzkEphd1tdblgdo1_r1_500.gif">
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+<p><strong> MAGNETON </strong></p>
+<img src="https://pa1.narvii.com/6012/a2829830716e1775a6d05dbe1eaab26846b71335_hq.gif">
 
-Prerequisites
-What things you need to install the software and how to install them
+<p><strong> EXEGUTTOR </strong></p>
+<img src="http://gifimage.net/wp-content/uploads/2017/11/exeggutor-gif-7.gif">
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+Three Headed Trainer pokedex shows you the main information about these three pokemons. Each of them has a custom created symbol.
+<p><img src="https://pp.userapi.com/c834301/v834301879/18d494/mJcjb5h5fKE.jpg"></p>
+<p>Also you can search for other pokemons by name using search bar.</p>
 
-Say what the step will be
+<strong> Built With </strong>
+Sublime, Koala
 
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-Running the tests
-Explain how to run the automated tests for this system
-
-Break down into end to end tests
-Explain what these tests test and why
-
-Give an example
-And coding style tests
-Explain what these tests test and why
-
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
-
-Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
-Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-
-Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+<strong> Author </strong>
+Mary Tkachenko - software engineer;
+Three Headed Trainer - inspiration;
+Combee - kitchen;
+Magneton - technical support;
+Exeguttor - landlord.
+<p><img src="https://media.giphy.com/media/w5uvIOfxIsdX2/giphy.gif"></p>
